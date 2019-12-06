@@ -1,3 +1,7 @@
+# this acts more like an Excel spreadsheet function, was designed for my wife's side business.
+# it is designed to figure sub cost across 4 rows, add the columns,add in shipping and then calculate tax for the final total
+
+
 from tkinter import *
 import sqlite3
 
